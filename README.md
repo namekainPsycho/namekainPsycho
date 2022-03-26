@@ -1,6 +1,6 @@
 ### Hi there 👋
-*. 👋 I'm [Jigme Lodey](https://www.jigmeloday.com/)
-*. 💻 I'm a developer from Bhutan.
+- 👋 I'm [Jigme Lodey](https://www.jigmeloday.com/)
+- 💻 I'm a developer from Bhutan.
 - ✔️ Familiar with C, C++, Java, HTML, CSS, Angular, React, Python, and other more...
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer in Selise Bhutan.
