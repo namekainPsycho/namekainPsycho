@@ -3,7 +3,7 @@
 - 💻 I'm a developer from Bhutan.
 - ✔️ Familiar with C, C++, Java, JS, TS, Next js, Angular, React js, React Native, Python, and other more...
 - 🔗 Passionate about learning and coding.
-- 🏢 Currently FE developer in Selise Bhutan.
+- 🏢 Currently FE developer.
 
 
 <!--
