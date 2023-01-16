@@ -5,6 +5,7 @@
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer.
 
+## 
 ![snake gif](https://github.com/jigmeloday/jigmeloday/blob/output/github-contribution-grid-snake.gif)
 
 ## Thank you visitor...
