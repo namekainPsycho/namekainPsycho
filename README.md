@@ -7,6 +7,9 @@
 
 ![snake gif](https://github.com/jigmeloday/jigmeloday/blob/output/github-contribution-grid-snake.gif)
 
+![Visitor Count](https://profile-counter.glitch.me/{jigmeloday}/count.svg)
+
+
 <!--
 **namekainPsycho/namekainPsycho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
