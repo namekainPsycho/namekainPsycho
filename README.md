@@ -7,7 +7,7 @@
 
 ##
 
-### My Stats
+<!-- ### My Stats -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent) -->
 
 ##
