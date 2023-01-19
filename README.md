@@ -1,13 +1,17 @@
-### Hi there 👋
-- 👋 I'm [Jigme Lodey](https://www.jigmeloday.com/)
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+- 👨🏻‍💻 I'm [Jigme Lodey](https://www.jigmeloday.com/)
 - 💻 I'm a developer from Bhutan.
-- ✔️ Familiar with C, C++, Java, JS, TS, Next js, Angular, React js, React Native, Python, and other more...
+- ✔️ Familiar with:
+    
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer.
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- ### My Stats -->
+##
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent)
 
 
