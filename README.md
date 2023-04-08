@@ -2,8 +2,8 @@
 
 - 👨🏻‍💻 I'm [Jigme Lodey](https://www.jigmeloday.com/)
 - 💻 I'm a developer from Bhutan.
-- ✔️ Familiar with:
-    
+<!-- - ✔️ Familiar with:
+     -->
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer.
 - 
