@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 👨🏻‍💻 I'm [Jigme Lodey](https://www.jigmeloday.com/)
-- 💻 I'm a developer from Bhutan.
+- 💻 I'm a MEAN MERN stack developer.
 <!-- - ✔️ Familiar with:
      -->
 - 🔗 Passionate about learning and coding.
