@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻 I'm [Jigme Lodey](https://www.jigmeloday.com/)
 - 💻 I'm a MEAN MERN stack developer.
+- 
 <!-- - ✔️ Familiar with:
      -->
 - 🔗 Passionate about learning and coding.
