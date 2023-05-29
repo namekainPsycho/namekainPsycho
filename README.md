@@ -19,7 +19,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jigmeloday)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
