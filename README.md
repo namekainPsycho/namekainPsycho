@@ -6,7 +6,7 @@
      -->
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer.
-- REACT | REACT NATIVE | ANGULAR | MEAN | MERN | MUI | TAILWIND | VUE | RAILS | NEXT JS
+- REACT | REACT NATIVE | ANGULAR | MEAN | MERN | MUI | TAILWIND | VUE | RAILS | NEXT JS | NATIVE BASE
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
