@@ -4,8 +4,7 @@
 - 
 - 💻 I'm a MEAN MERN stack developer.
   
-<!-- - ✔️ Familiar with:
-     -->
+<!-- - ✔️ Familiar with: -->
      
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently FE developer.
