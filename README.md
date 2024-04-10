@@ -5,7 +5,7 @@
 <!-- - ✔️ Familiar with: -->
      
 - 🔗 Passionate about learning and coding.
-- 🏢 Currently FE developer.
+- 🏢 Currently Full stack developer.
   
 - REACT | REACT NATIVE | ANGULAR | MEAN | MERN | MUI | TAILWIND | VUE | RAILS | NEXT JS | NATIVE BASE 
 
