@@ -9,7 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 [![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12557899)](https://stackoverflow.com/users/3840208/dhanushka)
-
 ##
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
 
