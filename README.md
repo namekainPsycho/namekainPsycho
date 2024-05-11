@@ -12,7 +12,6 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent)
-
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jigmeloday&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
 
