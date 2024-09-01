@@ -13,10 +13,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigmeloday&show_icons=true&theme=transparent)
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jigmeloday&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
-
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=jigmeloday&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 
 ![snake gif](https://github.com/jigmeloday/jigmeloday/blob/output/github-contribution-grid-snake.gif)
 ## Thank you visitor...
