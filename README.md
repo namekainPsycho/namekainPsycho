@@ -19,8 +19,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jigmeloday&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 
 
-## Thank you visitor...
-
 >![Visitor Count](https://profile-counter.glitch.me/{jigmeloday}/count.svg)
 
 
