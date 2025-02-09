@@ -2,6 +2,7 @@
 - 👨🏻‍💻 I'm [Jigme Lodey](https://portfolio-next-jigmelodays-projects.vercel.app/)
 - 💻 I'm a MEAN MERN stack developer.
 <!-- - ✔️ Familiar with: -->
+
 - 🔗 Passionate about learning and coding.
 - 🏢 Currently Full stack developer.
 - REACT | REACT NATIVE | ANGULAR | MEAN | MERN | MUI | TAILWIND | VUE | RUBY ON RAILS | NEXT JS | NATIVE BASE
